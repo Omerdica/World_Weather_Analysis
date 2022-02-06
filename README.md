@@ -5,7 +5,7 @@ In this project we are compiling data from Google Maps to try and see how we can
 
 # Result
 
-We collected data from 2000 different Lattitudes and Longitudes. With this information we can focusing on adding codes that will help us identify the how the weather is in each city that came up from our search. 
+We collected data from 2000 different Latitudes and Longitudes. With this information we can focusing on adding codes that will help us identify the how the weather is in each city that came up from our search. 
 
 ![Code1](Weather_Database/weather_database_city.png)
 
