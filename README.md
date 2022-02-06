@@ -24,4 +24,4 @@ In this map we created a code to give us the full description od the hotel name,
 ![Code1](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 # Summary
-With the information we have created using Google Maps Api and Google Maps Directions Api we can help imporve the PlanMyTrip app by giving the users more options to choose from when it comes to finding their next vacation spot. 
+With the information we have created using Google Maps Api and Google Maps Directions Api we can help improve the PlanMyTrip app by giving the users more options to choose from when it comes to finding their next vacation spot. 
